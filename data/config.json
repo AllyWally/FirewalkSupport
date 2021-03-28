@@ -1,0 +1,15 @@
+{
+    "MainBot": {
+        "token": "",
+        "prefix": "!",
+        "developer": "Allison#2003 & BongLongCS#3155",
+        "botinvite": ""
+    },
+    "Embed": {
+        "mainColor": "RED",
+        "mainFooter": "© 2021 Firewalk Hosting, All Rights Reserved"
+    },
+    "Discord-Data": {
+        "mutedrole": "Muted"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "connect": {
+        "username": "firewalk",
+        "password": "4GZIPx0biogg6pKu",
+        "URLConnection": "mongodb+srv://firewalk:<password>@firewalksupport.wca02.mongodb.net/Firewalk-Data"
+    }
+}
